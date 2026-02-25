@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+*.csv
+
+# MLflow
+mlruns/
+*.db
+
+# Environment
+.env
+
+# Artifacts
+backend/artifacts/*.pkl
+backend/artifacts/*.json
+
+# Notebooks
+*.ipynb
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
