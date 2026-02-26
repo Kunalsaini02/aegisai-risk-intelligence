@@ -5,7 +5,7 @@ __pycache__/
 mlflow.db
 
 # Models & Artifacts
-backend/artifacts/
+
 backend/app/ml_pipeline/mlruns/
 
 # Data
